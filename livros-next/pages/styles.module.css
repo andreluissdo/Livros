@@ -1,0 +1,27 @@
+/* styles.module.css */
+
+.container {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 800px;
+  }
+  
+  .main {
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .footer {
+    margin-top: 40px;
+    text-align: center;
+  }
+  
+  .logo {
+    width: 24px;
+    margin-left: 5px;
+  }
+  
